@@ -4,11 +4,17 @@
 
 ## c'est quoi ton travail ? / réponse:
 ----------------------------
+## ca consiste a quoi ?
+---------------------------
 ## ca fait combien de temps que tu fait se métiers la ?
 ----------------------------
 ## du coup tu fait quoi de t'es journer ,tu t'aucupe d'un seule projet ou de plusieurs a la fois ?
 ----------------------------
 ## tu avais de bonne notes au collège ? / réponse:
+----------------------------
+## quelles étude a tu fait après le collège ?
+----------------------------------------
+## quelles études à tu fait après le lycée ?
 ----------------------------
 ## tu a choisi ton métiers ? / réponse: 
 ------------------------
@@ -24,3 +30,7 @@
 ----------------------------
 ## alors dernier question, tu revé faire quoi quand tu était plus petit ? / réponse: 
 -------------------------------
+
+
+
+
