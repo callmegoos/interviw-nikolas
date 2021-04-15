@@ -4,7 +4,7 @@
 
 ## c'est quoi ton travail ? / réponse: je suis dévop
 ----------------------------
-## ca consiste a quoi ?
+## ca consiste a quoi ? / réponse: faire évolué les site il faut écrire des ligne de codes lancé des scripte 
 ---------------------------
 ## ca fait combien de temps que tu fait se métiers la ? / réponse: 15ans en tout, 3ans stagiaire,10ans salarié et 2ans en auto entrepreuneur  
 ----------------------------
