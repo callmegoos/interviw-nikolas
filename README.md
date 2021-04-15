@@ -2,19 +2,19 @@
 
  # 14H30
 
-## c'est quoi ton travail ? / réponse:
+## c'est quoi ton travail ? / réponse: je suis dévop
 ----------------------------
 ## ca consiste a quoi ?
 ---------------------------
-## ca fait combien de temps que tu fait se métiers la ?
+## ca fait combien de temps que tu fait se métiers la ? / réponse: 15ans en tout, 3ans stagiaire,10ans salarié et 2ans en auto entrepreuneur  
 ----------------------------
 ## du coup tu fait quoi de t'es journer ,tu t'aucupe d'un seule projet ou de plusieurs a la fois ?
 ----------------------------
-## tu avais de bonne notes au collège ? / réponse:
+## tu avais de bonne notes au collège ? / réponse: en 6e il avait environ 15 et en 3e il a fini à 12
 ----------------------------
-## quelles étude a tu fait après le collège ?
+## quelles étude a tu fait après le collège ? il a fait pro spécialisé électronique.
 ----------------------------------------
-## quelles études à tu fait après le lycée ?
+## quelles études à tu fait après le lycée ? il a fait un bts 
 ----------------------------
 ## tu a choisi ton métiers ? / réponse: 
 ------------------------
